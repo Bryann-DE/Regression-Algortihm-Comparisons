@@ -1,4 +1,4 @@
-# Regression-Algortihm-Comparisons
+# Comparing the fit of various Regression Algorithms on the AMES HOUSING dataset
 The AMES HOUSING dataset was used to compare the performance of various regression algorithms in predicting the house prices based on a number of features.
 
 Various features such as front lot area, basement area, age of the house/property, Neighborhood, Garage size etc. have been used to build a model to predict the Sale price of a house. This has been achieved using three Regression Algorithms namely, Linear Regression, Elastic Net- GridSearchCV and Polynomial Regression. 
